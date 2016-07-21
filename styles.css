@@ -1,0 +1,24 @@
+.posts div {
+	margin-bottom: 10px;
+	min-height: 150px;
+}
+
+img {
+	display: inline-block;
+	position: absolute;
+	border-radius: 100%;
+}
+
+.posts h3, .posts p, .posts h6 {
+	position:relative;
+	left: 150px;
+}
+
+a {
+	text-decoration: none;
+	color: navy;
+}
+
+a:hover {
+	color: gold;
+}
